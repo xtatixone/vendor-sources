@@ -88,7 +88,7 @@ jobs:
           tag_name: latest
           name: Available Vendor Sources
           body: |
-            Automated release of Xtatix vendor sources.
+            Automated release of Alchira vendor sources.
             Built from commit: ${{ github.sha }}
             Build time: ${{ github.event.head_commit.timestamp }}
 

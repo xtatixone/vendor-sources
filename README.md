@@ -1,13 +1,13 @@
-# Xtatix Vendor Sources: Contributor Guide
+# Alchira Vendor Sources: Contributor Guide
 
-This repository serves as the master repository to manage vendor prefixes for Xtatix.
+This repository serves as the master repository to manage vendor prefixes for Alchira.
 
 ## 🤝 Contributions and Integration
 
 If you are a vendor provider and want to have your vendor data set integrated, please follow these steps:
 
 1. **Clone the Template:**  
-   Clone the official template repository [`xtatixone/vendor-template`](https://github.com/xtatixone/vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
+   Clone the official template repository [`alchira/vendor-template`](https://github.com/alchira/vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
 
 2. **Create an Issue:**  
    Once your repository is ready, create a new issue in the main vendor-sources repository with the following details:  
